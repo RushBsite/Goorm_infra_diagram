@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T05:35:58.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7Pwc52ehEAcn7bzdLweD" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T05:42:25.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="P4jOrK2NC05WC04dqSXv" version="20.2.7" type="github">
   <diagram id="kZys8khgoOVqtKf0VcSh" name="페이지-1">
-    <mxGraphModel dx="922" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="791" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,8 +223,13 @@
             <mxPoint x="530" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vo1-2Pp_v9sWPXjGkPd--81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.702;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vo1-2Pp_v9sWPXjGkPd--15" target="Vo1-2Pp_v9sWPXjGkPd--66">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Vo1-2Pp_v9sWPXjGkPd--81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vo1-2Pp_v9sWPXjGkPd--15" target="Vo1-2Pp_v9sWPXjGkPd--69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="275" />
+              <mxPoint x="290" y="550" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
